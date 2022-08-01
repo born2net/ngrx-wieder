@@ -1,6 +1,6 @@
 {
   "name": "ngrx-wieder",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "scripts": {
     "prebuild": "cpx README.md projects/ngrx-wieder",
     "build": "ng build --configuration production",
